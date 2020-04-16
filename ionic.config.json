@@ -1,5 +1,7 @@
 {
   "name": "covid-chest-X-ray",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
